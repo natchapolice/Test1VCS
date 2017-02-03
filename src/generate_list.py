@@ -9,7 +9,7 @@ def printIt():
     print( generate_list() )
     
 def main():
-    printIt()
+        printIt()
     
 if __name__ == '__main__':
     print("Test printIt():")
